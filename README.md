@@ -1,1 +1,1 @@
-# E-commerce-LargeDatasets
+# E-commerce Project - Sales Data (LargeDatasets)
