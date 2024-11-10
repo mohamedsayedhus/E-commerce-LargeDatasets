@@ -60,3 +60,6 @@ PowerBI_Report.pbix: Power BI report file for further exploration.
 README.md: Documentation and project overview.
 # 💡 Conclusion
 This dashboard provides valuable insights into sales trends, customer behavior, and product performance, which can guide strategic decisions to optimize sales and customer engagement in the e-commerce domain.
+
+
+![Dashboard](https://github.com/user-attachments/assets/bbdf9b71-1b81-4fe9-9c68-9fca7f9ce893)
